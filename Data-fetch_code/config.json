@@ -1,10 +1,4 @@
 {
-   "database": {
-      "host": "my_host",
-      "user": "manoj",
-      "password": "Manoj2627",
-      "db_name": "gbfsdb"
-   },
    "providers": [
        {
            "name": "careem",
